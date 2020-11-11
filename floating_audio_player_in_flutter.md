@@ -2,7 +2,7 @@
 
 Today, we are going to learn how to build a floating audio player in Flutter. This method is not limited to the audio player but can use used for the video player as well.
 
-![Floating Audio Player](https://dev-to-uploads.s3.amazonaws.com/i/mkxl36fsobjk30c7kcwf.gif)
+![Floating Audio Player](https://dev-to-uploads.s3.amazonaws.com/i/vbiscrn7zvro8vpqr6rs.gif)
 
 First of all, let's create a new flutter project.
 
@@ -499,7 +499,7 @@ class _HomePageState extends State<HomePage> {
 }
 ```
 
-![Floating Audio Player](https://dev-to-uploads.s3.amazonaws.com/i/mkxl36fsobjk30c7kcwf.gif)
+![Floating Audio Player](https://dev-to-uploads.s3.amazonaws.com/i/vbiscrn7zvro8vpqr6rs.gif)
 
 That's it 🎉🥳, we have created a floating audio player. As mentioned earlier this is not limited to the audio player but can be used for anything.
 
@@ -507,8 +507,9 @@ That's it 🎉🥳, we have created a floating audio player. As mentioned earlie
 
 You can find the source code [here](github.com)
 
-If you have any suggestions or comments feel free to write down in the comment section, follow me on Twitter [@PaurakhSharma](https://twitter.com/PaurakhSharma) for new contents or to suggest me new content ;)
+If you have any suggestions or comments feel free to write down in the comment section, follow me on Twitter [@PaurakhSharma](https://twitter.com/PaurakhSharma) for new contents or to suggest one ;)
 
+Happy Coding!
 
 
 
