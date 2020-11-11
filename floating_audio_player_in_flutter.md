@@ -505,7 +505,7 @@ That's it 🎉🥳, we have created a floating audio player. As mentioned earlie
 
 **Now go and create awesome stuff with it.**
 
-You can find the source code [here](github.com)
+You can find the source code [here](https://github.com/paurakhsharma/floating_audio_player)
 
 If you have any suggestions or comments feel free to write down in the comment section, follow me on Twitter [@PaurakhSharma](https://twitter.com/PaurakhSharma) for new contents or to suggest one ;)
 
